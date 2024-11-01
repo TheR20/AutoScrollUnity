@@ -11,6 +11,8 @@ Steps to use it.:
 3- On the child of the scrollview -> Viewport -> Content  Add a new component Vertical Layout Group (Checkout child force expand checkboxes) and a add Content Size Filter as a new component too (Vertical fit = preferred size  / horizontal fit = Unconstrained)
 4- create a Button prefab add in the prefab the script saveItem and drag the text into the inspector
 4.1- On navigation use Explicit as you can see in the image below.
+
+
 ![GNB7XgOWcAAZ2W1](https://github.com/user-attachments/assets/39169fb8-357c-4fb4-9cc0-7956c06e963f)
 
 5- Add the script ScrollViewSample and drag and drop into the inspector the child content of the scrollview and the prefab u created (Modify test button Count on the inspector to the number of buttons u want to create)
