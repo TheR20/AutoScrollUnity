@@ -33,4 +33,4 @@ Steps to use it.:
 
 
 
-Now you have a scrollview that will to an autoscroll when you focus one of the prefabs that is not in the mask or the view of the scrollview it works with the system input it means you can move with awsd and using a game controller.
+Now you have a scrollview that will do an autoscroll when you focus one of the prefabs that is not in the mask or the view of the scrollview it works with the system input it means you can move with awsd and using a game controller.
