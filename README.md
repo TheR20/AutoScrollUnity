@@ -1,4 +1,4 @@
-This code is based on the video of Des CSK, you can follow all the steps in the video the only thing tha is diferrent will be the script ScrollViewAutoScroll
+This code is based on the video of Des CSK, you can follow all the steps in his video the only thing that is diferrent will be the script ScrollViewAutoScroll
 https://www.youtube.com/watch?v=l2_rHUffkJw
 
 ![Rogues-Kisses-Deadpool-Comic](https://github.com/user-attachments/assets/73ff3ea4-8e95-40e5-85bc-460b5b780f28)
