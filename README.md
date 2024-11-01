@@ -1,3 +1,6 @@
+This is a Auto Scroll for your Scrollviews when you change the focus of the item and is not visible, you can usa awsd or the new system input
+
+
 This code is based on the video of Des CSK, you can follow all the steps in his video the only thing that is diferrent will be the script ScrollViewAutoScroll
 https://www.youtube.com/watch?v=l2_rHUffkJw
 
