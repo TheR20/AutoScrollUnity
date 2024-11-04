@@ -37,6 +37,19 @@ Steps to use it.:
 Now you have a scrollview that will do an autoscroll when you focus one of the prefabs that is not in the mask or the view of the scrollview it works with the system input it means you can move with awsd and using a game controller.
 
 
+
+******How to Focus first element when you activate the menu*************
+You can use the script Tienda if you want to press an input when you enter on a trigger for example when you talk to a character and it opens the Menu but if you do not need all that script 
+you can call this line where you need it on your script it will focus the first button on your scroll be sure your scroll is active before you call it 
+
+![image](https://github.com/user-attachments/assets/8032f3be-0eef-4193-8fcf-c60d126f05f5)
+
+Note- Be careful to use the correct Scrip depends if you are using Vertical o Grid Layout Group 
+![image](https://github.com/user-attachments/assets/f7e50d56-9e95-4ae7-b572-391c760a92c5)
+
+
+
+
 ******If you want to to use a Grid Layout Group do the same steps but you will be using the scripts on the folder GridLayout *******
 
 ScrollViewAutoScrollGridLayout will replace ScrollViiewAutoScrolll
