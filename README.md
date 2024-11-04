@@ -38,7 +38,9 @@ Now you have a scrollview that will do an autoscroll when you focus one of the p
 
 
 
-******How to Focus first element when you activate the menu*************
+****** How to Focus first element when you activate the menu *************
+
+
 You can use the script Tienda if you want to press an input when you enter on a trigger for example when you talk to a character and it opens the Menu but if you do not need all that script 
 you can call this line where you need it on your script it will focus the first button on your scroll be sure your scroll is active before you call it 
 
