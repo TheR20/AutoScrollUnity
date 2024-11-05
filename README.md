@@ -61,6 +61,8 @@ You can use a List<string> or use mine List<ItemTienda> but you will need the sc
 
 To use this scripts you need to do something different on the step 3.
 3- Now you have o Add a new component Grid Layout Group and a add Content Size Filter as a new component too (Vertical fit = preferred size  / horizontal fit = Unconstrained)
+
+
 ![image](https://github.com/user-attachments/assets/168177bb-7bcc-421c-800a-302f3cf58356)
 
 Note- yoy have to take care you prefab size and modify cell size on the frid layout group to fit your prefab or it will look horrible.
